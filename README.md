@@ -1,1 +1,3 @@
-HEllo This is a README
+Hello This is a README.
+this is awesome
+Coding is amazing
